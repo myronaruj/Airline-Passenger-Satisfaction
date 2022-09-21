@@ -3,6 +3,9 @@
 
 **Classification of Airline Passenger Satisfaction**
 
+![image](https://user-images.githubusercontent.com/29515861/191596044-731342c4-b720-4944-9be5-42a4e4421c8f.png)
+
+
 **Objective and Problem Statement**
 
 -Customer satisfaction plays an important role in almost every business. Gaining new customers to retaining the existing customers, it is essential to understand the customer preferences and experience towards the service.
